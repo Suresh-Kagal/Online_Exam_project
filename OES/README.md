@@ -7,10 +7,10 @@
 
 <b>Back-End:</b> PHP,MySql
 
-<b>Link: <a href="https://rakeshmariyaplar.herokuapp.com/"> rakeshmariyaplar.herokuapp.com/</a></b>
 
 
-<b>Software Used:</b>WAMP
+
+<b>Software Used:</b>XAMMP
 
 ONLINE EXAMINATION SYSTEM is a web-based examination system where
 examinations are given online. either through the internet or intranet using computer
@@ -56,10 +56,3 @@ Functional Specification:
 <img src="https://imgur.com/gdsCmoY.png" width=100%>
 
 <img src="https://imgur.com/tReWRcw.png" width=100%>
-
-<b>How to run this project locally</b>
-1. clone this repo to www folder in WAMP software
-2. Open phpmydmin & Create new database with name projet
-3. import the SQL file present in SQL Files Folder using import option in phpmyadmin.
-4. changes credentials in sql.php file with your database credentials.
-5. open localhost in browser. you see the home page
