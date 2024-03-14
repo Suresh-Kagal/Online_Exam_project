@@ -55,4 +55,3 @@ Functional Specification:
 
 <img src="https://imgur.com/gdsCmoY.png" width=100%>
 
-<img src="https://imgur.com/tReWRcw.png" width=100%>
